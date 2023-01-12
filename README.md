@@ -15,9 +15,18 @@ Clarifai provides a platform for data scientists, developers, researchers and en
 
 # Model Tutorials
 
+## General
+
 | Notebook | Open in Colab |Resources |
 | ----------- | ----------- | ----------- |
 | [Make image predictions](https://github.com/Clarifai/colab-notebooks/blob/main/Quick_Start_on_Clarifai_Image_Predictions.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/Quick_Start_on_Clarifai_Image_Predictions.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
+
+## Uploading
+| Notebook | Open in Colab |Resources |
+| ----------- | ----------- | ----------- |
+| [Basic Uploading](https://github.com/Clarifai/colab-notebooks/blob/ps/api-training/uploading/basic_uploading.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/ps/api-training/uploading/basic_uploading.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/data/create-get-update-delete#add-inputs)|
+| [DataFrame Uploading](https://github.com/Clarifai/colab-notebooks/blob/ps/api-training/uploading/dataframe_uploading.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/ps/api-training/uploading/dataframe_uploading.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/data/create-get-update-delete#add-inputs)|
+
 
 
 
