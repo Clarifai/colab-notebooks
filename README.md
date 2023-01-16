@@ -28,5 +28,13 @@ Clarifai provides a platform for data scientists, developers, researchers and en
 | [DataFrame Uploading](https://github.com/Clarifai/colab-notebooks/blob/ps/api-training/uploading/dataframe_uploading.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/ps/api-training/uploading/dataframe_uploading.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/data/create-get-update-delete#add-inputs)|
 
 
+## Inference
+| Notebook | Open in Colab |Resources |
+| ----------- | ----------- | ----------- |
+| [Basic Inference](https://github.com/Clarifai/colab-notebooks/blob/ps/api-training/inference/basic_inference.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/ps/api-training/inference/basic_inference.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
+| [DataFrame Inference](https://github.com/Clarifai/colab-notebooks/blob/ps/api-training/inference/dataframe_inference.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/ps/api-training/inference/dataframe_inference.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
+
+
+
 
 
