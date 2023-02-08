@@ -33,6 +33,7 @@ Clarifai provides a platform for data scientists, developers, researchers and en
 | ----------- | ----------- | ----------- |
 | [Basic Inference](https://github.com/Clarifai/colab-notebooks/blob/main/inference/basic_inference.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/inference/basic_inference.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
 | [DataFrame Inference](https://github.com/Clarifai/colab-notebooks/blob/main/inference/dataframe_inference.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/inference/dataframe_inference.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
+| [Face Detection Inference](https://github.com/Clarifai/colab-notebooks/blob/main/inference/face_model_prediction_to_annotation) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/inference/face_model_prediction_to_annotation) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
 
 
 
