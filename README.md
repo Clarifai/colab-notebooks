@@ -19,8 +19,8 @@ Clarifai provides a platform for data scientists, developers, researchers and en
 
 | Notebook | Open in Colab |Resources |
 | ----------- | ----------- | ----------- |
-| [Make image predictions](https://github.com/Clarifai/colab-notebooks/blob/main/Quick_Start_on_Clarifai_Image_Predictions.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/Quick_Start_on_Clarifai_Image_Predictions.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
-| [Create ChatGPT prompts from an image](https://github.com/Clarifai/colab-notebooks/blob/main/Inference_on_image_to_GPT_prompt.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/Inference_on_image_to_GPT_prompt.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
+| [Make image predictions](https://github.com/Clarifai/colab-notebooks/blob/main/general/Quick_Start_on_Clarifai_Image_Predictions.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/general/Quick_Start_on_Clarifai_Image_Predictions.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
+| [Create ChatGPT prompts from an image](https://github.com/Clarifai/colab-notebooks/blob/main/general/Inference_on_image_to_GPT_prompt.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/general/Inference_on_image_to_GPT_prompt.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
 
 ## Uploading
 | Notebook | Open in Colab |Resources |
