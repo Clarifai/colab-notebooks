@@ -37,4 +37,7 @@ Clarifai provides a platform for data scientists, developers, researchers and en
 | [Face Detection Inference](https://github.com/Clarifai/colab-notebooks/blob/main/inference/face_model_prediction_to_annotation.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/inference/face_model_prediction_to_annotation.ipynb) |[Clarifai Docs](https://docs.clarifai.com/api-guide/predict/images)|
 
 
-
+## Search
+| Notebook | Open in Colab |Resources |
+| ----------- | ----------- | ----------- |
+| [Visual Search](https://github.com/Clarifai/colab-notebooks/blob/main/search/visual_search.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clarifai/colab-notebooks/blob/main/search/visual_search.ipynb) | [Clarifai Docs](https://docs.clarifai.com/api-guide/search/rank) |
