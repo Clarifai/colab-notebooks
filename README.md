@@ -2,8 +2,10 @@
 
 # Clarifai Notebooks
 
+> ❗ **Note:** This repository is not being actively maintained. For Clarifai Python SDK examples, visit https://github.com/Clarifai/examples. 
+
 This is a collection of notebooks for interacting with our powerful recognition
-[API](https://docs.clarifai.com). You can run them on any environment that supports Python notebooks, such as Google Colabs and Jupyter Notebook. 
+[API](https://docs.clarifai.com) using our python GRPC endpoints. You can run them on any environment that supports Python notebooks, such as Google Colabs and Jupyter Notebook. 
 
 Clarifai provides a platform for data scientists, developers, researchers and enterprises to master the entire artificial intelligence lifecycle. Gather valuable business insights from images, video and text using computer vision and natural language processing.
 
